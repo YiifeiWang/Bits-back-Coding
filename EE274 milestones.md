@@ -1,8 +1,8 @@
 # Project 274 milestones
 
 ## Week 1 (Nov. 7-Nov. 13) 
-- Understand the paper Compressing Multisets with Large Alphabets 
-- Prepare the summary of the proposed method and the corresponding theoretical guarantee
+- [marked] Understand the paper Compressing Multisets with Large Alphabets 
+- [marked] Prepare the summary of the proposed method and the corresponding theoretical guarantee
 
 ## Week 2 (Nov. 14-Nov. 20)
 - Prepare the report
