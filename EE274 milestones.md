@@ -1,13 +1,16 @@
 # Project 274 milestones
 
+All implementations in this project are based on SCL.
+
 ## Week 1 (Nov. 7-Nov. 13) 
 - [marked] Understand the paper Compressing Multisets with Large Alphabets 
 - [marked] Prepare the summary of the proposed method and the corresponding theoretical guarantee
 
 ## Week 2 (Nov. 14-Nov. 20)
 - Prepare the report
-- Implement the proposed method upon SCL.
-- Compare with standard compressor.
+- Implement ANS for encode/decode multiset.
+- Implement Bits-back coding for encode/decode multiset.
+- Make the comparison on certain datasets.
 
 ## Week 3 (Nov. 21-Nov. 27)
 - Implement the proposed method. 
