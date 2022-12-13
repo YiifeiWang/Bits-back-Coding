@@ -1,0 +1,1 @@
+py.test -s -v BitsBackCoding.py
